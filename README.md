@@ -1,7 +1,4 @@
 # Knucklebones
-A version of the luck and strategy based dice game from [Cult of The Lamb](https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/).
-
-Available at: https://rawenchilada.github.io/Knucklebones/
 
 # Roadmap
  - Hard AI
@@ -18,8 +15,6 @@ Available at: https://rawenchilada.github.io/Knucklebones/
 To build the game install the [Dart SDK](https://dart.dev/get-dart).<br>
 Then run `make` in the root directory of the project.<br>
 The game will be built to the `dist` directory.
-
- > *'make artifact' builds the game into a '_site' folder, used for github workflows.*
 
 
 
